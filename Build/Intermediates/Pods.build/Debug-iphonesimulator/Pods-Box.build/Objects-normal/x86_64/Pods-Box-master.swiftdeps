@@ -1,0 +1,6 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "b96992aa573bf2d37efdef003974de18"
+inputs: 
+- "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/Box/Box/Box.swift"
+- "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/Box/Box/BoxType.swift"
+- "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/Box/Box/MutableBox.swift"

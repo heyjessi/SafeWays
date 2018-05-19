@@ -1,0 +1,806 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Products/Debug-iphonesimulator/Pods.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-Swift.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Products/Debug-iphonesimulator/Pods.framework/Headers/Pods-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods-umbrella.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/Target Support Files/Pods/Pods-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Products/Debug-iphonesimulator/Pods.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Products/Debug-iphonesimulator/Pods/AFNetworking.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AFHTTPRequestOperation.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFHTTPRequestOperationManager.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFHTTPSessionManager.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworkActivityIndicatorManager.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworkReachabilityManager.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworking-Swift.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Products/Debug-iphonesimulator/Pods/AFNetworking.framework/Headers/AFNetworking-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworking.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/AFNetworking/AFNetworking/AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFSecurityPolicy.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLConnectionOperation.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLRequestSerialization.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLResponseSerialization.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLSessionManager.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods-AFNetworking-umbrella.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/Target Support Files/Pods-AFNetworking/Pods-AFNetworking-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIActivityIndicatorView+AFNetworking.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIAlertView+AFNetworking.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+AFNetworking.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+AFNetworking.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIKit+AFNetworking.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/AFNetworking/UIKit+AFNetworking/UIKit+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIProgressView+AFNetworking.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIRefreshControl+AFNetworking.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIWebView+AFNetworking.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Products/Debug-iphonesimulator/Pods/AFNetworking.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Products/Debug-iphonesimulator/Pods/Box.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Box-Swift.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Products/Debug-iphonesimulator/Pods/Box.framework/Headers/Box-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Box.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/Box/Box/Box.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods-Box-umbrella.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/Target Support Files/Pods-Box/Pods-Box-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Products/Debug-iphonesimulator/Pods/Box.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Box.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Products/Debug-iphonesimulator/Pods/ReactiveCocoa.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "EXTKeyPathCoding.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/extobjc/EXTKeyPathCoding.h"
+        },
+        {
+          'type': 'file',
+          'name': "EXTScope.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/extobjc/EXTScope.h"
+        },
+        {
+          'type': 'file',
+          'name': "MKAnnotationView+RACSignalSupport.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/MKAnnotationView+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSArray+RACSequenceAdditions.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSArray+RACSequenceAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSData+RACSupport.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSData+RACSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSDictionary+RACSequenceAdditions.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSDictionary+RACSequenceAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSEnumerator+RACSequenceAdditions.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSEnumerator+RACSequenceAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSFileHandle+RACSupport.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSFileHandle+RACSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSIndexSet+RACSequenceAdditions.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSIndexSet+RACSequenceAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSInvocation+RACTypeParsing.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSInvocation+RACTypeParsing.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSNotificationCenter+RACSupport.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSNotificationCenter+RACSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+RACDeallocating.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSObject+RACDeallocating.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+RACDescription.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSObject+RACDescription.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+RACKVOWrapper.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSObject+RACKVOWrapper.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+RACLifting.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSObject+RACLifting.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+RACPropertySubscribing.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSObject+RACPropertySubscribing.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+RACSelectorSignal.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSObject+RACSelectorSignal.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSOrderedSet+RACSequenceAdditions.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSOrderedSet+RACSequenceAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSSet+RACSequenceAdditions.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSSet+RACSequenceAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+RACKeyPathUtilities.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSString+RACKeyPathUtilities.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+RACSequenceAdditions.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSString+RACSequenceAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+RACSupport.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSString+RACSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSURLConnection+RACSupport.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSURLConnection+RACSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSUserDefaults+RACSupport.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSUserDefaults+RACSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods-ReactiveCocoa-umbrella.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/Target Support Files/Pods-ReactiveCocoa/Pods-ReactiveCocoa-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACArraySequence.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACArraySequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACBehaviorSubject.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACBehaviorSubject.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACBlockTrampoline.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACBlockTrampoline.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACChannel.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACChannel.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACCommand.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACCommand.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACCompoundDisposable.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACCompoundDisposable.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACDelegateProxy.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACDelegateProxy.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACDisposable.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACDisposable.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACDynamicPropertySuperclass.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACDynamicPropertySuperclass.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACDynamicSequence.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACDynamicSequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACDynamicSignal.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACDynamicSignal.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACEagerSequence.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACEagerSequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACErrorSignal.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACErrorSignal.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACEvent.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACEvent.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACGroupedSignal.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACGroupedSignal.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACImmediateScheduler.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACImmediateScheduler.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACIndexSetSequence.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACIndexSetSequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACKVOChannel.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACKVOChannel.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACKVOProxy.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACKVOProxy.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACKVOTrampoline.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACKVOTrampoline.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACMulticastConnection.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACMulticastConnection.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACObjCRuntime.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACObjCRuntime.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACPassthroughSubscriber.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACPassthroughSubscriber.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACQueueScheduler+Subclass.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACQueueScheduler+Subclass.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACQueueScheduler.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACQueueScheduler.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACReplaySubject.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACReplaySubject.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACReturnSignal.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACReturnSignal.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACScheduler+Subclass.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACScheduler+Subclass.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACScheduler.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACScheduler.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACScopedDisposable.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACScopedDisposable.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSequence.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACSequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSerialDisposable.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACSerialDisposable.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSignal+Operations.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACSignal+Operations.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSignal.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACSignal.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSignalSequence.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACSignalSequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACStream.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACStream.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACStringSequence.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACStringSequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSubject.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACSubject.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSubscriber.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACSubscriber.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSubscriptingAssignmentTrampoline.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACSubscriptingAssignmentTrampoline.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSubscriptionScheduler.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACSubscriptionScheduler.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACTargetQueueScheduler.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACTargetQueueScheduler.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACTestScheduler.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACTestScheduler.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACTuple.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACTuple.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACTupleSequence.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACTupleSequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACUnarySequence.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACUnarySequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACUnit.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACUnit.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACValueTransformer.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACValueTransformer.h"
+        },
+        {
+          'type': 'file',
+          'name': "ReactiveCocoa-Bridging-Header.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/ReactiveCocoa-Bridging-Header.h"
+        },
+        {
+          'type': 'file',
+          'name': "ReactiveCocoa-Swift.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Products/Debug-iphonesimulator/Pods/ReactiveCocoa.framework/Headers/ReactiveCocoa-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "ReactiveCocoa.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/ReactiveCocoa.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIActionSheet+RACSignalSupport.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UIActionSheet+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIAlertView+RACSignalSupport.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UIAlertView+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIBarButtonItem+RACCommandSupport.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UIBarButtonItem+RACCommandSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+RACCommandSupport.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UIButton+RACCommandSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UICollectionReusableView+RACSignalSupport.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UICollectionReusableView+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIControl+RACSignalSupport.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UIControl+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIControl+RACSignalSupportPrivate.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UIControl+RACSignalSupportPrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIDatePicker+RACSignalSupport.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UIDatePicker+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIGestureRecognizer+RACSignalSupport.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UIGestureRecognizer+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImagePickerController+RACSignalSupport.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UIImagePickerController+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIRefreshControl+RACCommandSupport.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UIRefreshControl+RACCommandSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UISegmentedControl+RACSignalSupport.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UISegmentedControl+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UISlider+RACSignalSupport.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UISlider+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIStepper+RACSignalSupport.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UIStepper+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UISwitch+RACSignalSupport.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UISwitch+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITableViewCell+RACSignalSupport.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UITableViewCell+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITableViewHeaderFooterView+RACSignalSupport.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UITableViewHeaderFooterView+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITextField+RACSignalSupport.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UITextField+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITextView+RACSignalSupport.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UITextView+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "metamacros.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/extobjc/metamacros.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Products/Debug-iphonesimulator/Pods/ReactiveCocoa.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ReactiveCocoa.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Products/Debug-iphonesimulator/Pods/ReactiveCocoa.framework/PrivateHeaders",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "EXTRuntimeExtensions.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/extobjc/EXTRuntimeExtensions.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACEmptySequence.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACEmptySequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACEmptySignal.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACEmptySignal.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACMulticastConnection+Private.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACMulticastConnection+Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACScheduler+Private.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACScheduler+Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACStream+Private.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACStream+Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSubscriber+Private.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACSubscriber+Private.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Products/Debug-iphonesimulator/Pods/Result.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-Result-umbrella.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/Target Support Files/Pods-Result/Pods-Result-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Result-Swift.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Products/Debug-iphonesimulator/Pods/Result.framework/Headers/Result-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Products/Debug-iphonesimulator/Pods/Result.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Result.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Products/Debug-iphonesimulator/Pods/SnapKit.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-SnapKit-umbrella.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/Target Support Files/Pods-SnapKit/Pods-SnapKit-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SnapKit-Swift.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Products/Debug-iphonesimulator/Pods/SnapKit.framework/Headers/SnapKit-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Products/Debug-iphonesimulator/Pods/SnapKit.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SnapKit.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Products/Debug-iphonesimulator/Pods/SwiftyJSON.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-SwiftyJSON-umbrella.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/Target Support Files/Pods-SwiftyJSON/Pods-SwiftyJSON-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-Swift.h",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Products/Debug-iphonesimulator/Pods/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Products/Debug-iphonesimulator/Pods/SwiftyJSON.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SwiftyJSON.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

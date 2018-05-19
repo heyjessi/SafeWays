@@ -1,0 +1,11 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "1261c8725212739c9088770d6766ad62"
+inputs: 
+- "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/SafeWay/NavigationViewController.swift"
+- "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/SafeWay/TableViewController.swift"
+- "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/SafeWay/ViewController.swift"
+- "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/SafeWay/MapViewController.swift"
+- "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/SafeWay/APIManager.swift"
+- "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/SafeWay/AppDelegate.swift"
+- "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/SafeWay/EntireMapView.swift"
+- "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/SafeWay/InputViewController.swift"

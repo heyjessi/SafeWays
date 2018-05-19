@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Products/Debug-iphonesimulator/Pods/SwiftyJSON.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SwiftyJSON.build/unextended-module.modulemap',
+    }]
+  }]
+}

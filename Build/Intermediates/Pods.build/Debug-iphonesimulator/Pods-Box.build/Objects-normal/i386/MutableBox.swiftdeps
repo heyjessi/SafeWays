@@ -1,0 +1,32 @@
+### Swift dependencies file v0 ###
+provides:
+- "MutableBox"
+nominals:
+- "C3Box10MutableBox"
+class-members:
+top-level:
+- "String"
+- "MutableBox"
+- !private "toString"
+- "MutableBoxType"
+- "Printable"
+member-access:
+- "C3Box10MutableBox"
+- "PSs9Printable"
+- "P3Box7BoxType"
+- "PSs9AnyObject"
+- "P3Box14MutableBoxType"
+dynamic-lookup:
+cross-module:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/Swift.swiftmodule"
+- "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/Box/Box/Box.h"
+- "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Pods/Target Support Files/Pods-Box/Pods-Box-umbrella.h"
+- "/Users/annamiyajima/Documents/Development/ChimeHack2015/SafeWay/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Box.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/Security.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/CoreImage.swiftmodule"

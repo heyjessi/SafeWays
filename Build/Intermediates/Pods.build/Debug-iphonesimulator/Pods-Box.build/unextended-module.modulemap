@@ -1,0 +1,10 @@
+framework module Box {
+  umbrella header "Pods-Box-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module Box.__Swift {
+    exclude header "Box-Swift.h"
+}
